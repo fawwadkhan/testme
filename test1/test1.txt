@@ -1,3 +1,0 @@
-hello test1.txt
-
-I am coming from file1
